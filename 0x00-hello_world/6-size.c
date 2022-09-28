@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point of the code
+ *
+ * Description: prints the size of various types on a computer
+ *
+ * Return: Always return 0 (Success)
+ */
 int main(void)
 {
 	char acharacter;
